@@ -7,7 +7,7 @@
 <img src="https://github.com/github/explore/blob/main/topics/c/c.png" width="40" height="40">
 <img src="https://github.com/github/explore/blob/main/topics/r/r.png" width="40" height="40">
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=jayanth336&theme=highcontrast&show_icons=true&count_private=true) ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=jayanth336&layout=compact)
+![Github stats](https://github-readme-stats.vercel.app/api?username=jayanth336&theme=highcontrast&show_icons=true&count_private=true) 
 
 <!--
 **jayanth336/jayanth336** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
