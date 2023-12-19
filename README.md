@@ -6,3 +6,11 @@
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jayanth336&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> -->
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayanth336&layout=compact&langs_count=7&theme=dark"/>
  </div>
+
+ <div align ="center">
+   <h4>Functional programming in java (JAVA 8)</h4>
+   <a href = "https://github.com/jayanth336/functional-programing-in-java">1. functional-programing-in-java</a>
+
+   <h4> Udemy - luv2code - springboot course</h4>
+   <a href = "https://github.com/jayanth336/crud-with-entitymanager-student">1. crud-with-entitymanager-student</a>
+ </div>
