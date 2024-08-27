@@ -20,4 +20,7 @@
 
    <h4>Junit 5</h4>
    <a href = "https://github.com/jayanth336/junit5-testing">Junit 5 Testing - using springboot</a>
+
+   <h4>Vert.x basic REST API</h4>
+   <a href = "https://github.com/jayanth336/vertx-employee-postgresql">Vert.x-employee-postgreSQL-RestAPI</a>
  </div>
