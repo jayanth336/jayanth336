@@ -8,19 +8,7 @@
  </div>
 
  <div align ="center">
-   <h4>Functional programming in java (JAVA 8)</h4>
-   <a href = "https://github.com/jayanth336/functional-programing-in-java">1. functional-programing-in-java</a>
-
-   <h4>Udemy - luv2code - springboot course</h4>
-   <a href = "https://github.com/jayanth336/crud-with-entitymanager-student">1. CommandLineRunner-EntityManager-Student</a> <br>
-   <a href = "https://github.com/jayanth336/rest-crud-jpa-api-employee">2. Rest-Jpa-Api-Employee-with-EntityManager</a> <br>
-   <a href = "https://github.com/jayanth336/rest-crud-jpa-api-employee_with_SpringDataJpa">3. Rest-Jpa-Api-Employee-with-SpringDataJpa</a> <br>
-   <a href = "https://github.com/jayanth336/rest-crud-jpa-api-employee_with_SpringDataRest">4. Rest-Jpa-Api-Employee-with-SpringDataRest</a> <br>
-   <a href= "https://github.com/jayanth336/Rest-Jpa-Api-Employee-with-SpringDataJpa-Security">5. Rest-Jpa-Api-Employee-with-SpringDataJpa-Security</a> <br>
-
-   <h4>Junit 5</h4>
-   <a href = "https://github.com/jayanth336/junit5-testing">Junit 5 Testing - using springboot</a>
-
-   <h4>Vert.x basic REST API</h4>
-   <a href = "https://github.com/jayanth336/vertx-employee-postgresql">Vert.x-employee-postgreSQL-RestAPI</a>
+   <h4>E-Commerce Backend REST API (Java, Spring Boot)</h4>
+   <a href = "https://github.com/jayanth336/ecommerce_service">Ecommerce-service</a>
+   <a href = "https://github.com/jayanth336/inventory_service">Inventory-service</a>
  </div>
