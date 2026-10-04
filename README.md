@@ -7,8 +7,8 @@
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayanth336&layout=compact&langs_count=7&theme=dark"/>
  </div>
 
- <div align ="center">
-   <h4>E-Commerce Backend REST API (Java, Spring Boot)</h4>
-   <a href = "https://github.com/jayanth336/ecommerce_service">Ecommerce-service</a>
-   <a href = "https://github.com/jayanth336/inventory_service">Inventory-service</a>
- </div>
+<div align="center">
+  <h4>E-Commerce Backend REST API (Java, Spring Boot)</h4>
+  <p><a href="https://github.com/jayanth336/ecommerce_service">Ecommerce-service</a></p>
+  <p><a href="https://github.com/jayanth336/inventory_service">Inventory-service</a></p>
+</div>
